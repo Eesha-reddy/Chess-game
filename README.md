@@ -25,7 +25,7 @@ Verify
 Open In Editor
 Run
 Copy code
-git clone https://github.com/yourusername/chess-game.git
+git clone 
 cd chess-game
 Install SFML:
 
